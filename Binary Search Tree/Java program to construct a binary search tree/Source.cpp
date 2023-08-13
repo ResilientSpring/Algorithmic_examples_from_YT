@@ -3,7 +3,16 @@ using namespace std;
 
 class Binary_Search_Tree {
 
-	static
+	static class Node {
+		int data;
+		Node *left;
+		Node *right;
+
+	public:
+		Node(int data) {
+
+		}
+	};
 
 };
 
