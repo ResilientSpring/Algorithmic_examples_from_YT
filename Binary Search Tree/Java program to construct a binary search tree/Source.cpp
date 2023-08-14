@@ -10,7 +10,7 @@ class Binary_Search_Tree {
 
 	public:
 		Node(int data) {
-
+			this.data = data;
 		}
 	};
 
