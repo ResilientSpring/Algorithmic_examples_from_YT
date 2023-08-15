@@ -17,6 +17,12 @@ class binaryTree_Node {
 
 	}
 
+	static void traverse(binaryTree_Node node) {
+
+		if
+
+	}
+
 };
 
 
