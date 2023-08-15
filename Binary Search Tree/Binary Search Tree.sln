@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.33423.256
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Java program to construct a binary search tree", "Java program to construct a binary search tree\Java program to construct a binary search tree.vcxproj", "{649C348C-5C36-471B-BC6F-1D2A800C04B5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Working with Trees", "Working with Trees\Working with Trees.vcxproj", "{00CEAE3B-E03A-4AE8-8C9C-0E03434CDCA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{649C348C-5C36-471B-BC6F-1D2A800C04B5}.Release|x64.Build.0 = Release|x64
 		{649C348C-5C36-471B-BC6F-1D2A800C04B5}.Release|x86.ActiveCfg = Release|Win32
 		{649C348C-5C36-471B-BC6F-1D2A800C04B5}.Release|x86.Build.0 = Release|Win32
+		{00CEAE3B-E03A-4AE8-8C9C-0E03434CDCA4}.Debug|x64.ActiveCfg = Debug|x64
+		{00CEAE3B-E03A-4AE8-8C9C-0E03434CDCA4}.Debug|x64.Build.0 = Debug|x64
+		{00CEAE3B-E03A-4AE8-8C9C-0E03434CDCA4}.Debug|x86.ActiveCfg = Debug|Win32
+		{00CEAE3B-E03A-4AE8-8C9C-0E03434CDCA4}.Debug|x86.Build.0 = Debug|Win32
+		{00CEAE3B-E03A-4AE8-8C9C-0E03434CDCA4}.Release|x64.ActiveCfg = Release|x64
+		{00CEAE3B-E03A-4AE8-8C9C-0E03434CDCA4}.Release|x64.Build.0 = Release|x64
+		{00CEAE3B-E03A-4AE8-8C9C-0E03434CDCA4}.Release|x86.ActiveCfg = Release|Win32
+		{00CEAE3B-E03A-4AE8-8C9C-0E03434CDCA4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
