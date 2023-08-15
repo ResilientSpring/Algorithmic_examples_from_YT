@@ -11,7 +11,9 @@ class binaryTree_Node {
 
 	binaryTree_Node(string Data, binaryTree_Node *left, binaryTree_Node *right) {
 
-		
+		this->data = Data;
+		this->left = left;
+		this->right = right;
 
 	}
 
