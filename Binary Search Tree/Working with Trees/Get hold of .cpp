@@ -29,4 +29,6 @@ class binaryTree_Node {
 
 int main() {
 
+	binaryTree_Node tree = binaryTree_Node("Root", NULL, NULL);
+
 }
