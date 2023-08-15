@@ -19,7 +19,8 @@ class binaryTree_Node {
 
 	static void traverse(binaryTree_Node node) {
 
-		if
+		if (node.left != NULL)
+			traverse(node.left);
 
 	}
 
