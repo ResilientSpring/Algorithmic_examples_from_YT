@@ -5,7 +5,7 @@ using namespace std;
 class binaryTree_Node {
 
 	string data;
-	
+
 	binaryTree_Node *left, *right;
 
 
@@ -17,10 +17,10 @@ class binaryTree_Node {
 
 	}
 
-	static void traverse(binaryTree_Node node) {
+	static void traverse(binaryTree_Node *node) {
 
-		if (node.left != NULL)
-			traverse(node.left);
+		if (node->left != NULL)
+			traverse(node->left);
 
 	}
 
