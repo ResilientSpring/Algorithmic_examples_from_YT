@@ -21,6 +21,10 @@ class binaryTree_Node {
 
 		if (node->left != NULL)
 			traverse(node->left);
+		if (node->right != NULL)
+			traverse(node->right);
+
+		cout << node->data << ", ";
 
 	}
 
